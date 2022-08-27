@@ -1,7 +1,5 @@
 ### Olá, seja bem vindo ao meu perfil, sou o Felipe 👋
 
-![image](https://user-images.githubusercontent.com/65839541/187009456-df5a4d63-7921-41dd-b02f-bc8f264b8b9c.png)
-
 
 <!--
 **FelipePRibeiro/FelipePRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
