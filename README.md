@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on ...
 - 💬 Pergunte-me sobre as ferramentas Qlik;
 - 📫 Você pode me contatar através do [Linkedin](https://www.linkedin.com/in/felipe-pereira-ribeiro);
-- ⚡ Fun fact: ...
+- ⚡ Curiosidade: Gosto de corrida 🏃‍♂️​;
 
