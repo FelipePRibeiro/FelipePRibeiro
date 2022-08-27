@@ -7,3 +7,8 @@
 - 📫 Você pode me contatar através do [Linkedin](https://www.linkedin.com/in/felipe-pereira-ribeiro);
 - ⚡ Curiosidade: Gosto de corrida 🏃‍♂️​
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="TF-Qlik" height="30" width="40" src="https://help.qlik.com/img/logos/Qlik-Help-2019.svg">
+ <img align="center" alt="TF-PBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+</div>
+
